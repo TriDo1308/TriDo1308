@@ -1,16 +1,29 @@
-## Hi there 👋
+# 👋 Hi, I'm Tri Do
 
-<!--
-**TriDo1308/TriDo1308** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 **Embedded Software Engineer | Linux BSP | Yocto | Device Driver | C/C++**
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 About Me
+- 🧠 1+ years of experience in **Embedded Linux Development**
+- 🔧 Working with **Renesas R-Car**, **ARM SoCs**, and **FreeRTOS**
+- 💡 Interested in **performance optimization, driver development, and board bring-up**
+- 🧩 Comfortable with **kernel debugging**, **I2C/SPI/UART**, **gdb**, and **trace-cmd**
+
+---
+
+### 🛠️ Tech Stack
+#### 💻 Programming
+`C` · `C++` · `Python` · `Bash` · `Makefile`
+
+#### 🧠 Embedded & System
+`Yocto` · `Buildroot` · `U-Boot` · `Device Tree` · `Kernel Driver` · `GDB` · `Trace-cmd`
+
+#### 🔌 Hardware Interface
+`I2C` · `SPI` · `UART` · `GPIO` · `Audio` · `Display` · `USB`
+
+---
+
+### 🌐 Connect with Me
+- LinkedIn: https://www.linkedin.com/in/do-cao-tri/
+- Email: caotricg1308@gmail.com
