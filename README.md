@@ -5,7 +5,7 @@
 ---
 
 ### 🚀 About Me
-- 🧠 1+ years of experience in **Embedded Linux Development**
+- 🧠 1+ years of experience in **Embedded Linux Engineer**
 - 🔧 Working with **Renesas R-Car**, **ARM SoCs**, and **FreeRTOS**
 - 💡 Interested in **performance optimization, driver development, and board bring-up**
 - 🧩 Comfortable with **kernel debugging**, **I2C/SPI/UART**, **gdb**, and **trace-cmd**
